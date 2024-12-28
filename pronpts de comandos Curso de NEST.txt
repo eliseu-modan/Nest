@@ -1,0 +1,7 @@
+pronpts de comandos Curso de NEST
+
+HTTP RESPONSE : https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+DOCUMENTAÇÃO NEST - https://docs.nestjs.com/first-steps
+INSTALL GLOBAL NEST CLI - npm i -g @nestjs/cli
+VERSION - nest -v
+NEW PROJECT - nest new car-dealership
